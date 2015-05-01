@@ -11,6 +11,7 @@ echo '<!DOCTYPE html>
 
 
 
+
 echo '<form action = "http://web.engr.oregonstate.edu/~westonse/src/content1.php" method = "post"> Enter Username 
 	  <input type = "text" name = "user_input"> Enter Username Here <br>
 	  <input type = "submit">';
