@@ -1,0 +1,15 @@
+Start: Fri, 1 Jan 2015 12:42:00 -0700
+End: Fri, 1 May 2015 15:07:23 -0700
+Tasks: Fixed redirect to login issues and implemented error handling for other files.
+
+Start: Th, 30 April Jan 2015 22:30:00 -0700
+End: Fri, 1 May 2015 01:35:53 -0700
+Tasks: Have login, content1, and content2 mostly functioning, issues with redirect.
+
+Start: Wed, 29 April 2015 20:05:00 -0700
+End: Wed, 29 April 2015 22:39:05 -0700
+Tasks: Loopback.php and multtable.php completed
+
+Start: Wed, 29 April 2015 14:10:00 -0700
+End: Wed, 29 April 2015 14:17:33 -0700
+Tasks: Initial commit of working files
